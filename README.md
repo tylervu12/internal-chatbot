@@ -79,7 +79,7 @@ pip install -r requirements.txt
 
 ### 4. Configure Environment Variables
 
-Create a file named `.env` in the root of the project directory and add the following variables.
+Create a file named `.env` in the root of the project directory using `env.example` and add the following variables.
 
 ```
 # Your secret API key from OpenAI
