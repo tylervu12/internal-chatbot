@@ -39,7 +39,7 @@ repo/
 │   ├── file_name_definitions.csv # Maps filenames to descriptions
 │   ├── faq_customers.txt
 │   └── ... (other .txt files)
-├── .env                         # Stores environment variables (API keys, credentials)
+├── env.example                         # Stores environment variables (API keys, credentials)
 ├── requirements.txt             # Python dependencies
 └── README.md
 ```
@@ -51,8 +51,8 @@ Follow these steps to set up and run the project locally.
 ### 1. Clone the Repository
 
 ```bash
-git clone <your-repo-url>
-cd <your-repo-directory>
+git clone https://github.com/tylervu12/internal-chatbot
+cd https://github.com/tylervu12/internal-chatbot
 ```
 
 ### 2. Create and Activate a Virtual Environment
