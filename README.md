@@ -52,7 +52,7 @@ Follow these steps to set up and run the project locally.
 
 ```bash
 git clone https://github.com/tylervu12/internal-chatbot
-cd https://github.com/tylervu12/internal-chatbot
+cd internal-chatbot
 ```
 
 ### 2. Create and Activate a Virtual Environment
